@@ -15,16 +15,12 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/srabon-khan-niloy-4236502b5/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:niloysk54@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://your-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge"/>
 </a>
 </p>
 
@@ -263,12 +259,42 @@ OpenTo:
 
 ---
 
-# Connect With Me
+## Connect With Me
 
-- GitHub: https://github.com/niloysk34
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your@email.com
-- Portfolio: https://your-portfolio.vercel.app
+<div align="center">
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srabon-khan-niloy-4236502b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Srabon%20Khan%20Niloy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/niloysk34">
+<img src="https://img.shields.io/badge/GitHub-niloysk34-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/niloysk54">
+<img src="https://img.shields.io/badge/X-@niloysk54-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61579803203707">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### Social Links
+
+* **GitHub:** https://github.com/niloysk34
+* **LinkedIn:** https://www.linkedin.com/in/srabon-khan-niloy-4236502b5/
+* **X (Twitter):** https://x.com/niloysk54
+* **Facebook:** [Srabon Khan Niloy](https://www.facebook.com/profile.php?id=61579803203707)
+* **Email:** [niloysk54@email.com](mailto:niloysk54@email.com)
+
 
 ---
 
