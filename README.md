@@ -178,54 +178,17 @@ Focused on software engineering fundamentals, competitive programming, algorithm
 
 ---
 
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Planned-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Student-4F46E5?style=for-the-badge)
-
----
 
 # Coding Profiles
 
-<p>
+| Platform | Profile |
+|:---------:|:--------|
+| <img src="https://skillicons.dev/icons?i=leetcode" width="25"> **LeetCode** | https://leetcode.com/u/niloysk/ |
+| <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="25"> **Codeforces** | https://codeforces.com/profile/srabonkhanniloy2127 |
+| <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="25"> **GeeksforGeeks** | https://www.geeksforgeeks.org/profile/niloyf3bl |
+| <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="25"> **HackerRank** | https://www.hackerrank.com/profile/niloysk54 |
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-<a href="https://codeforces.com/">
-
-<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge"/>
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
